@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+I:\Decimal_Hexa\decimal_hexa.gpr
+20150921235644
+[BOUND OBJECT FILES]
+I:\Decimal_Hexa\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LI:\Decimal_Hexa\obj\
+-LI:\Decimal_Hexa\obj\
+-LC:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/
+-static
+-static-libgcc
+C:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnat.a
+-Wl,--stack=0x2000000

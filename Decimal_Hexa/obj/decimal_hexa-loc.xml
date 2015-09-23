@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>I:\Decimal_Hexa\decimal_hexa.gpr</vfs_project>
+      <vfs_file>I:\Decimal_Hexa\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 48" >
+      <vfs_project>I:\Decimal_Hexa\decimal_hexa.gpr</vfs_project>
+      <vfs_file>I:\Decimal_Hexa\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 43" >
+      <vfs_project>I:\Decimal_Hexa\decimal_hexa.gpr</vfs_project>
+      <vfs_file>I:\Decimal_Hexa\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 46" >
+      <vfs_project>I:\Decimal_Hexa\decimal_hexa.gpr</vfs_project>
+      <vfs_file>I:\Decimal_Hexa\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 49" >
+      <vfs_project>I:\Decimal_Hexa\decimal_hexa.gpr</vfs_project>
+      <vfs_file>I:\Decimal_Hexa\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >G:\Decimal_Hexa\decimal_hexa.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >G:\ConversionBinarioDecimal\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >G:\Decimal_Hexa\decimal_hexa.gpr</vfs_project>
+      <vfs_file >G:\Decimal_Hexa\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
